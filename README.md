@@ -1,4 +1,11 @@
-# DACA Portfoolio -- Simo Suursild
+# DACA Portfoolio
+ 
+**Programm:** Data Analyst Career Accelerator (DACA)
+**Osaleja:** [Simo Suursild]
+**Algus:** [06/11/2026]
+
+## Kirjeldus
+See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 
 ## Minust
 Liitusin DACA programmiga, kuna andmeanalüütika tundus huvitav valdkond millesse võiks karjaaäri alaselt liikuda. Hetkel pole selles valdkonnas veel töötanud kuid loodan, et see programm aitab mul ennast piisavalt arendada, et seda lähi tulevikus teha.
@@ -6,14 +13,24 @@ Liitusin DACA programmiga, kuna andmeanalüütika tundus huvitav valdkond milles
 ## Eesmärk
 Õppida andmeanalüüsi -- SQL, Python, visualiseerimine -- ja ehitada professionaalne portfoolio.
 
-## Nädala kaupa
+## Kava nädala kaupa
 | Nädal | Teema | Staatus |
 |-------|-------|---------|
 | 0 | Onboarding | Käimas |
-| 1 | SQL Basics | Tulemas |
-| 2 | SQL Cleaning | Tulemas |
+| 1 | SQL Põhitõed | Tulemas |
+| 2 | SQL Andmete Puhastamine | Tulemas |
 | 3 | SQL JOINs | Tulemas |
-| 4 | SQL Aggregation | Tulemas |
+| 4 | SQL Agregatsioon | Tulemas |
 | 5-6 | Visualiseerimine | Tulemas |
 | 7-8 | Python | Tulemas |
 | 9-10 | Portfoolio + Karjäär | Tulemas |
+
+## Oskused
+- **SQL:** PostgreSQL, Supabase
+- **Python:** pandas, plotly (tulemas...)
+- **Visualiseerimine:** Power BI / Streamlit (tulemas...)
+- **Tööriistad:** Git, GitHub, VS Code
+ 
+## Kontakt
+- **GitHub:** [github.com/simosuursild](https://github.com/simosuursild)
+- **Email:** simosuursild@gmail.com
