@@ -1,11 +1,11 @@
 # DACA Portfoolio
  
-**Programm:** Data Analyst Career Accelerator (DACA)
-**Osaleja:** [Simo Suursild]
-**Algus:** [06/11/2026]
+**Programm:** Data Analyst Career Accelerator (DACA)  
+**Osaleja:** Simo Suursild  
+**Algus:** 06/11/2026  
 
 ## Kirjeldus
-See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
+See repositoorium sisaldab minu DACA õppeprojekte ja portfooliot.
 
 ## Minust
 Liitusin DACA programmiga, kuna andmeanalüütika tundus huvitav valdkond millesse võiks karjaaäri alaselt liikuda. Hetkel pole selles valdkonnas veel töötanud kuid loodan, et see programm aitab mul ennast piisavalt arendada, et seda lähi tulevikus teha.
