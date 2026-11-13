@@ -21,7 +21,7 @@ Kasutasin ChatGPT, et selgitada mõningate SQL päringute kasutamist ja
 NotebookLLM-i, et leida materjalidest vastust oma küsimustele programmi kohta kui ei tahtnud kõike materjale uuesti käistsi läbi lugeda
 
 ## 5. Kausta failid ja tiimi link
-— **Minu kirjutatud SQL-päringud:**
+**Minu kirjutatud SQL-päringud:**
 - [\week-1\individual\week1_roll_D_baasülesanded.sql](https://github.com/simosuursild/daca-portfolio/blob/b97550e7d7a71087dd951fd8a8105685d3fa6f3c/week-1/individual/week1_roll_D_baas%C3%BClesanded.sql)
 - [\week-1\individual\week1_roll_D_lisaülesanded.sql](https://github.com/simosuursild/daca-portfolio/blob/b97550e7d7a71087dd951fd8a8105685d3fa6f3c/week-1/individual/week1_roll_D_lisa%C3%BClesanded.sql)
 
