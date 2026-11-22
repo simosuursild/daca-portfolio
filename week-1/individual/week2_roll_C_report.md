@@ -1,6 +1,6 @@
 # Products tabeli raport (roll C)
 ## Ülesanne: leida duplikaadid, NULL väärtused, loogika vead ja ebajärjekindlused
-** Tulemus: **
+**Tulemus:**
 - 12 korduvat tootenime, kõiki kordub tabelis 2 korda
 - 18 NULL väärtust eco sertifikaadi väljal
 - 0 NULL väärtust ülejäänud väljadel
