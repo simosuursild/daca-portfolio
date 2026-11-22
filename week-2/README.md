@@ -6,8 +6,8 @@ Minu ülesanne see nädal oli uurida UrbanStyle tooteandmeid ning tuvastada prob
 - Roll meeskonnas: roll C - tooteandmete puhastaja ja toote tabeli raporti koostaja
 - Tööriistad: Supabase
 - Kirjutasin järgnevad päringud / skriptid:
-- week-2/individual/week2_roll_C.sql
-- et analüüsida toote tabeli probleeme
+-   week-2/individual/week2_roll_C.sql
+-   et analüüsida toote tabeli probleeme
 
 ## 3. Tulemused ja äriline mõju
 - Tulemus 1: 12 korduvat tootenime; äriline mõju - andmesegadus
