@@ -9,5 +9,6 @@
 - 0 negatiivset või äärmusliku hinda
 - 0 ebajärjekindlust muudes veergudes
 
-**Probleeme kokku: 22**
+**Probleeme kokku: 22**  
+
 **Link minu SQL skrptile:**[week-2/individual/week2_roll_C.sql](https://github.com/simosuursild/daca-portfolio/blob/main/week-2/individual/week2_roll_C.sql)
