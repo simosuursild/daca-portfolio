@@ -1,4 +1,4 @@
-# Products tabeli raport (roll C)
+# Toote tabeli raport (roll C)
 **Ülesanne: leida duplikaadid, NULL väärtused, loogika vead ja ebajärjekindlused**  
 
 **Tulemus:**
